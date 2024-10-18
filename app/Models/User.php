@@ -43,4 +43,10 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
         'password' => 'hashed',
     ];
+
+    public function getProfileImageAttribute($value)
+    {
+        return $value ? asset($value) : null;
+    }
+
 }
