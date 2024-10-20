@@ -1,7 +1,3 @@
-Here’s a detailed README template for your user form submission application, emphasizing the UI and project features. This version includes emojis and is designed to be visually appealing:
-
----
-
 # 🌟 User Form Submission App 🌟
 
 Welcome to the **User Form Submission App**! This application allows users to submit their information through a simple and elegant form. The submitted data is displayed in a user-friendly table format, making it easy to view all entries at a glance.
@@ -97,7 +93,3 @@ The application is designed with a focus on user experience, utilizing Bootstrap
 This User Form Submission App provides a simple and effective solution for submitting and viewing user information. It's designed for both developers and end-users to enjoy a seamless experience.
 
 For more projects and information, visit my portfolio: [Ankit Khatik Portfolio](https://ankit-khatik.web.app) 🌐
-
----
-
-Feel free to adjust any sections to better fit your style or add any additional details relevant to your application!
